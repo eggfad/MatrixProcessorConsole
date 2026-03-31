@@ -1,0 +1,14 @@
+C:\Users\Захар\source\repos\MatrixProcessorConsole\MatrixProcessorConsole\bin\Debug\net10.0\MatrixProcessorConsole.exe
+C:\Users\Захар\source\repos\MatrixProcessorConsole\MatrixProcessorConsole\bin\Debug\net10.0\MatrixProcessorConsole.deps.json
+C:\Users\Захар\source\repos\MatrixProcessorConsole\MatrixProcessorConsole\bin\Debug\net10.0\MatrixProcessorConsole.runtimeconfig.json
+C:\Users\Захар\source\repos\MatrixProcessorConsole\MatrixProcessorConsole\bin\Debug\net10.0\MatrixProcessorConsole.dll
+C:\Users\Захар\source\repos\MatrixProcessorConsole\MatrixProcessorConsole\bin\Debug\net10.0\MatrixProcessorConsole.pdb
+C:\Users\Захар\source\repos\MatrixProcessorConsole\MatrixProcessorConsole\obj\Debug\net10.0\MatrixProcessorConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Захар\source\repos\MatrixProcessorConsole\MatrixProcessorConsole\obj\Debug\net10.0\MatrixProcessorConsole.AssemblyInfoInputs.cache
+C:\Users\Захар\source\repos\MatrixProcessorConsole\MatrixProcessorConsole\obj\Debug\net10.0\MatrixProcessorConsole.AssemblyInfo.cs
+C:\Users\Захар\source\repos\MatrixProcessorConsole\MatrixProcessorConsole\obj\Debug\net10.0\MatrixProcessorConsole.csproj.CoreCompileInputs.cache
+C:\Users\Захар\source\repos\MatrixProcessorConsole\MatrixProcessorConsole\obj\Debug\net10.0\MatrixProcessorConsole.dll
+C:\Users\Захар\source\repos\MatrixProcessorConsole\MatrixProcessorConsole\obj\Debug\net10.0\refint\MatrixProcessorConsole.dll
+C:\Users\Захар\source\repos\MatrixProcessorConsole\MatrixProcessorConsole\obj\Debug\net10.0\MatrixProcessorConsole.pdb
+C:\Users\Захар\source\repos\MatrixProcessorConsole\MatrixProcessorConsole\obj\Debug\net10.0\MatrixProcessorConsole.genruntimeconfig.cache
+C:\Users\Захар\source\repos\MatrixProcessorConsole\MatrixProcessorConsole\obj\Debug\net10.0\ref\MatrixProcessorConsole.dll
